@@ -4,6 +4,8 @@
 
 ### <div align="center">I'm Mikaeel, a software & aws devops engineer 👨‍💻 working remotely since 2021 🚀</div>
 
+<br/>
+
 🔭 I’m currently working on **404**
 
 🌱 I’m currently learning **Go**
@@ -12,7 +14,7 @@
 
 👯 I’m looking to collaborate on **AWS CDK & Terraform**
 
-📝 I regularly write articles on https://blog.mikaeels.com
+📝 I <s>regularly</s> write articles on https://blog.mikaeels.com
 
 ⚡ Fact: **famous, i am not.**
 
