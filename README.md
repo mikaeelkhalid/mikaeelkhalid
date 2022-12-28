@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
-
 ### <div align="center">I'm Mikaeel, a software & aws devops engineer 👨‍💻 working remotely since 2021 🚀</div>
 
 <br/>
