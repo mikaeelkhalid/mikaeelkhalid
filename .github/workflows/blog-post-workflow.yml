@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in blog.mikaeels.com posts
-        uses: mikaeelkhalid/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://blog.mikaeels.com/rss.xml'
