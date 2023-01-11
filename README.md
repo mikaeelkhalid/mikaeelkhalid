@@ -97,6 +97,7 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Terraform?](https://blog.mikaeels.com/what-is-terraform)
 - [What is AWS CDK &lpar;Cloud Development Kit&rpar;](https://blog.mikaeels.com/what-is-aws-cdk)
 - [Dependency relation in AWS CDK](https://blog.mikaeels.com/dependency-relation-in-aws-cdk)
 - [Difference between controlled and uncontrolled components in React.js](https://blog.mikaeels.com/controlled-vs-uncontrolled-components-in-react)
