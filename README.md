@@ -97,11 +97,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to merge arrays in typescript?](https://blog.mikaeels.com/how-to-merge-arrays-in-typescript)
 - [What is Terraform?](https://blog.mikaeels.com/what-is-terraform)
 - [What is AWS CDK &lpar;Cloud Development Kit&rpar;](https://blog.mikaeels.com/what-is-aws-cdk)
 - [Dependency relation in AWS CDK](https://blog.mikaeels.com/dependency-relation-in-aws-cdk)
 - [Difference between controlled and uncontrolled components in React.js](https://blog.mikaeels.com/controlled-vs-uncontrolled-components-in-react)
-- [How To Use: sort&lpar;&rpar;, filter&lpar;&rpar; keys&lpar;&rpar; in JavaScript](https://blog.mikaeels.com/how-to-use-sort-filter-keys-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
