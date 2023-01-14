@@ -97,11 +97,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Does the AWS CDK Bootstrap Command Do?](https://blog.mikaeels.com/what-does-the-aws-cdk-bootstrap-command-do)
 - [How to merge arrays in typescript?](https://blog.mikaeels.com/how-to-merge-arrays-in-typescript)
 - [What is Terraform?](https://blog.mikaeels.com/what-is-terraform)
 - [What is AWS CDK &lpar;Cloud Development Kit&rpar;](https://blog.mikaeels.com/what-is-aws-cdk)
 - [Dependency relation in AWS CDK](https://blog.mikaeels.com/dependency-relation-in-aws-cdk)
-- [Difference between controlled and uncontrolled components in React.js](https://blog.mikaeels.com/controlled-vs-uncontrolled-components-in-react)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
