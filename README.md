@@ -94,7 +94,7 @@
 
 <br/>
 
-## Recent Blog Posts From <blog.mikaeels.com>
+## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [AWS SQS vs SNS vs EventBridge? When to use what?](https://blog.mikaeels.com/sqs-vs-sns-vs-eventbridge)
