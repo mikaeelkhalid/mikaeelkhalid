@@ -97,11 +97,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to do Subnets Tagging in AWS CDK](https://blog.mikaeels.com/how-to-do-subnets-tagging-in-aws-cdk)
 - [AWS SQS vs SNS vs EventBridge? When to use what?](https://blog.mikaeels.com/sqs-vs-sns-vs-eventbridge)
 - [What is a Token in the AWS Cloud Development Kit &lpar;CDK&rpar;?](https://blog.mikaeels.com/what-is-token-in-aws-cdk)
 - [What Does the AWS CDK Bootstrap Command Do?](https://blog.mikaeels.com/what-does-the-aws-cdk-bootstrap-command-do)
 - [How to merge arrays in typescript?](https://blog.mikaeels.com/how-to-merge-arrays-in-typescript)
-- [What is Terraform?](https://blog.mikaeels.com/what-is-terraform)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
