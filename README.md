@@ -97,11 +97,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use of design patterns in software development](https://blog.mikaeels.com/use-of-design-patterns-in-software-development)
 - [How to Setup/Enable BitBucket Terminal Access on a Mac](https://blog.mikaeels.com/how-to-setup-bitbucket-terminal-access-on-mac)
 - [What does CDK Synth do in AWS CDK](https://blog.mikaeels.com/what-does-cdk-synth-do-in-aws-cdk)
 - [How to do Subnets Tagging in AWS CDK](https://blog.mikaeels.com/how-to-do-subnets-tagging-in-aws-cdk)
 - [AWS SQS vs SNS vs EventBridge? When to use what?](https://blog.mikaeels.com/sqs-vs-sns-vs-eventbridge)
-- [What is a Token in the AWS Cloud Development Kit &lpar;CDK&rpar;?](https://blog.mikaeels.com/what-is-token-in-aws-cdk)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
