@@ -97,11 +97,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to do Subnet Selection in AWS CDK](https://blog.mikaeels.com/how-to-do-subnet-selection-in-aws-cdk)
 - [How to use Outputs in AWS CDK](https://blog.mikaeels.com/how-to-use-outputs-in-aws-cdk)
 - [Deploy React App with AWS CDK](https://blog.mikaeels.com/deploy-react-app-with-aws-cdk)
 - [How to Deploy All Stacks in AWS CDK](https://blog.mikaeels.com/how-to-deploy-all-stacks-in-aws-cdk)
 - [Use of design patterns in software development](https://blog.mikaeels.com/use-of-design-patterns-in-software-development)
-- [How to Setup/Enable BitBucket Terminal Access on a Mac](https://blog.mikaeels.com/how-to-setup-bitbucket-terminal-access-on-mac)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
