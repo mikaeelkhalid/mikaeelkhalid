@@ -97,11 +97,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Configure CORS for an AWS S3 Bucket](https://blog.mikaeels.com/how-to-configure-cors-for-an-aws-s3-bucket)
 - [How to do Subnet Selection in AWS CDK](https://blog.mikaeels.com/how-to-do-subnet-selection-in-aws-cdk)
 - [How to use Outputs in AWS CDK](https://blog.mikaeels.com/how-to-use-outputs-in-aws-cdk)
 - [Deploy React App with AWS CDK](https://blog.mikaeels.com/deploy-react-app-with-aws-cdk)
 - [How to Deploy All Stacks in AWS CDK](https://blog.mikaeels.com/how-to-deploy-all-stacks-in-aws-cdk)
-- [Use of design patterns in software development](https://blog.mikaeels.com/use-of-design-patterns-in-software-development)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
