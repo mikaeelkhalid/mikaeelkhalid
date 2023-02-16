@@ -97,11 +97,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build serverless applications with AWS CDK](https://blog.mikaeels.com/build-serverless-applications-with-aws-cdk)
 - [How to Create an IAM User with AWS CDK](https://blog.mikaeels.com/how-to-create-an-iam-user-with-aws-cdk)
 - [How to Configure CORS for an AWS S3 Bucket](https://blog.mikaeels.com/how-to-configure-cors-for-an-aws-s3-bucket)
 - [How to do Subnet Selection in AWS CDK](https://blog.mikaeels.com/how-to-do-subnet-selection-in-aws-cdk)
 - [How to use Outputs in AWS CDK](https://blog.mikaeels.com/how-to-use-outputs-in-aws-cdk)
-- [Deploy React App with AWS CDK](https://blog.mikaeels.com/deploy-react-app-with-aws-cdk)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
