@@ -97,11 +97,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Custom JavaScript Functions: Best Practices and Examples](https://blog.mikaeels.com/creating-custom-javascript-functions-best-practices-and-examples)
 - [A Beginner&#39;s Guide to Promises in JavaScript](https://blog.mikaeels.com/beginners-guide-to-promises-in-javascript)
 - [How to send emails with SES in AWS CDK](https://blog.mikaeels.com/how-to-send-emails-with-ses-in-aws-cdk)
 - [Build serverless applications with AWS CDK](https://blog.mikaeels.com/build-serverless-applications-with-aws-cdk)
 - [How to Create an IAM User with AWS CDK](https://blog.mikaeels.com/how-to-create-an-iam-user-with-aws-cdk)
-- [How to Configure CORS for an AWS S3 Bucket](https://blog.mikaeels.com/how-to-configure-cors-for-an-aws-s3-bucket)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
