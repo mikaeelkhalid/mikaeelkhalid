@@ -97,11 +97,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring JavaScript&#39;s Prototype Inheritance Model](https://blog.mikaeels.com/exploring-javascript-prototype-inheritance-model)
 - [How to List Stacks in AWS CDK](https://blog.mikaeels.com/how-to-list-stacks-in-aws-cdk)
 - [Creating Custom JavaScript Functions: Best Practices and Examples](https://blog.mikaeels.com/creating-custom-javascript-functions-best-practices-and-examples)
 - [A Beginner&#39;s Guide to Promises in JavaScript](https://blog.mikaeels.com/beginners-guide-to-promises-in-javascript)
 - [How to send emails with SES in AWS CDK](https://blog.mikaeels.com/how-to-send-emails-with-ses-in-aws-cdk)
-- [Build serverless applications with AWS CDK](https://blog.mikaeels.com/build-serverless-applications-with-aws-cdk)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
