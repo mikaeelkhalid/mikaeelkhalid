@@ -97,11 +97,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using AWS CDK to Deploy an AWS Fargate Service](https://blog.mikaeels.com/using-aws-cdk-to-deploy-an-aws-fargate-service)
 - [Exploring JavaScript&#39;s Prototype Inheritance Model](https://blog.mikaeels.com/exploring-javascript-prototype-inheritance-model)
 - [How to List Stacks in AWS CDK](https://blog.mikaeels.com/how-to-list-stacks-in-aws-cdk)
 - [Creating Custom JavaScript Functions: Best Practices and Examples](https://blog.mikaeels.com/creating-custom-javascript-functions-best-practices-and-examples)
 - [A Beginner&#39;s Guide to Promises in JavaScript](https://blog.mikaeels.com/beginners-guide-to-promises-in-javascript)
-- [How to send emails with SES in AWS CDK](https://blog.mikaeels.com/how-to-send-emails-with-ses-in-aws-cdk)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
