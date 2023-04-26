@@ -2,6 +2,8 @@
 
 <br/>
 
+👀 <img src="https://komarev.com/ghpvc/?username=mikaeelkhalid&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="mikaeelkhalid" />
+
 🔭 I’m currently working on **404**
 
 🌱 I’m currently learning **Go**
@@ -13,8 +15,6 @@
 📝 I <s>regularly</s> write articles on https://blog.mikaeels.com
 
 ⚡ Fact: **famous, i am not.**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikaeelkhalid&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="saifullahsajid" /> </p>  
 
 <br/>
 
