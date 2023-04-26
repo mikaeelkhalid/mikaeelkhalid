@@ -1,8 +1,8 @@
 ### <div align="center">I'm Mikaeel, a software & aws devops engineer 👨‍💻 working remotely since 2021 🚀</div>
 
-<br/>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=mikaeelkhalid&style=flat-square&label=Profile%20Views&color=0e75b6&color=blueviolet" alt="mikaeelkhalid" /></div>
 
-👀 <img src="https://komarev.com/ghpvc/?username=mikaeelkhalid&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="mikaeelkhalid" />
+<br/>
 
 🔭 I’m currently working on **404**
 
