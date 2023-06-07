@@ -99,11 +99,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 12-Factor App Methodology](https://blog.mikaeels.com/twelve-factor-app-methodology)
 - [How to Deploy Dockerized AWS Lambda Using AWS CDK](https://blog.mikaeels.com/how-to-deploy-dockerized-aws-lambda-using-aws-cdk)
 - [What does the AWS CDK Diff command do](https://blog.mikaeels.com/what-does-the-aws-cdk-diff-command-do)
 - [Using AWS CDK to Deploy an AWS Fargate Service](https://blog.mikaeels.com/using-aws-cdk-to-deploy-an-aws-fargate-service)
 - [Exploring JavaScript&#39;s Prototype Inheritance Model](https://blog.mikaeels.com/exploring-javascript-prototype-inheritance-model)
-- [How to List Stacks in AWS CDK](https://blog.mikaeels.com/how-to-list-stacks-in-aws-cdk)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
