@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on **404**
 
-🌱 I’m currently learning **Go**
+🌱 I’m currently learning **Helm**
 
 ❓ Ask me about **AWS, DevOps, React, Node, Python**
 
@@ -108,7 +108,7 @@
 
 <br/>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31rnmjg4zswhersnjrqf4s3rhsti&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31rnmjg4zswhersnjrqf4s3rhsti&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div> -->
 
 <br/>
 
