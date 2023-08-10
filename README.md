@@ -1,4 +1,4 @@
-### <div align="center">I'm Mikaeel, a software & aws devops engineer 👨‍💻 working remotely since 2021 🚀</div>
+### <div align="center">I'm Mikaeel, a SWE & DevOps Engineer 👨‍💻 working remotely since 2020 🚀</div>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=mikaeelkhalid&style=flat-square&label=Profile%20Views&color=0e75b6&color=blueviolet" alt="mikaeelkhalid" /></div>
 
@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **Helm**
 
-❓ Ask me about **AWS, DevOps, React, Node, Python**
+❓ Ask me about **AWS, GCP, DevOps, React, Node, Python**
 
 👯 I’m looking to collaborate on **AWS CDK & Terraform**
 
