@@ -16,7 +16,7 @@
 
 🌐 I'm a member of the **AWS Community Builder** program.
 
-⚡ Fact: **famous, i am not.**
+⚡  Fact: **famous, i am not.**
 
 <br/>
 
