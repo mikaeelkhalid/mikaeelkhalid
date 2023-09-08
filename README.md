@@ -14,6 +14,8 @@
 
 📝 I <s>regularly</s> write articles on https://blog.mikaeels.com
 
+🌐 I'm a member of the **AWS Community Builder** program.
+
 ⚡ Fact: **famous, i am not.**
 
 <br/>
