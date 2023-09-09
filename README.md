@@ -6,9 +6,9 @@
 
 🔭 I’m currently working on **404**
 
-🌱 I’m currently learning **Helm**
+🌱 I’m currently learning **Istio**
 
-❓ Ask me about **AWS, GCP, DevOps, React, Node, Python**
+❓ Ask me about **AWS, GCP, DevOps, Node, Python**
 
 👯 I’m looking to collaborate on **AWS CDK & Terraform**
 
