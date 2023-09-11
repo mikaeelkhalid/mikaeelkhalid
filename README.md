@@ -4,7 +4,7 @@
 
 <br/>
 
-🔭 I’m currently working on **404**
+🔭 I’m currently working on **GitOps**
 
 🌱 I’m currently learning **Istio**
 
