@@ -102,11 +102,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use AWS CodeCommit to mirror Azure repo using an Azure Pipeline](https://blog.mikaeels.com/codecommit-to-mirror-azure-repo-using-azure-pipeline)
 - [Building an AWS AppSync Serverless Application using AWS CDK](https://blog.mikaeels.com/appsync-serverless-application-aws-cdk)
 - [The 12-Factor App Methodology](https://blog.mikaeels.com/twelve-factor-app-methodology)
 - [How to Deploy Dockerized AWS Lambda Using AWS CDK](https://blog.mikaeels.com/how-to-deploy-dockerized-aws-lambda-using-aws-cdk)
 - [What does the AWS CDK Diff command do](https://blog.mikaeels.com/what-does-the-aws-cdk-diff-command-do)
-- [Using AWS CDK to Deploy an AWS Fargate Service](https://blog.mikaeels.com/using-aws-cdk-to-deploy-an-aws-fargate-service)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
