@@ -10,7 +10,7 @@
 
 ❓ Ask me about **AWS, GCP, DevOps, Node, Python**
 
-👯 I’m looking to collaborate on **AWS CDK & Terraform**
+👨‍💻 I’m looking to collaborate on **AWS CDK & Terraform**
 
 📝 I <s>regularly</s> write articles on https://blog.mikaeels.com
 
