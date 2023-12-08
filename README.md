@@ -4,9 +4,9 @@
 
 <br/>
 
-🔭 I’m currently working on **Pulumi**
+🔭 I’m currently working on **404**
 
-🌱 I’m currently learning **Istio**
+🌱 I’m currently learning **Pulumi**
 
 ❓ Ask me about **AWS, GCP, DevOps, Node, Python**
 
