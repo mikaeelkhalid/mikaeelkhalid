@@ -102,11 +102,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating AWS CodePipeline Notifications to Discord Using Lambda and Terraform](https://blog.mikaeels.com/aws-codepipeline-discord-notifier-terraform)
 - [Creating a CI/CD Pipeline for AWS Elastic Beanstalk with AWS CDK](https://blog.mikaeels.com/cicd-pipeline-for-aws-elastic-beanstalk-with-cdk)
 - [How to use npm modules in AWS Lambda](https://blog.mikaeels.com/how-to-use-npm-modules-in-aws-lambda)
 - [Use AWS CodeCommit to mirror Azure repo using an Azure Pipeline](https://blog.mikaeels.com/codecommit-to-mirror-azure-repo-using-azure-pipeline)
 - [Building an AWS AppSync Serverless Application using AWS CDK](https://blog.mikaeels.com/appsync-serverless-application-aws-cdk)
-- [The 12-Factor App Methodology](https://blog.mikaeels.com/twelve-factor-app-methodology)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
