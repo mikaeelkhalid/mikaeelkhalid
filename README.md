@@ -102,11 +102,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GCP Instance Scheduler using Terraform](https://blog.mikaeels.com/gcp-instance-scheduler-using-terraform)
 - [Getting Started with Pulumi: Deploying a Demo App to AWS and GCP Using TypeScript](https://blog.mikaeels.com/getting-started-with-pulumi)
 - [What is Context and its Significance in AWS CDK](https://blog.mikaeels.com/what-is-context-and-its-significance-in-aws-cdk)
 - [Automating AWS CodePipeline Notifications to Discord Using Lambda and Terraform](https://blog.mikaeels.com/aws-codepipeline-discord-notifier-terraform)
 - [Creating a CI/CD Pipeline for AWS Elastic Beanstalk with AWS CDK](https://blog.mikaeels.com/cicd-pipeline-for-aws-elastic-beanstalk-with-cdk)
-- [How to use npm modules in AWS Lambda](https://blog.mikaeels.com/how-to-use-npm-modules-in-aws-lambda)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
