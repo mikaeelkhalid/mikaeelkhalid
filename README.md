@@ -102,11 +102,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Provisioning a Lambda Function in a VPC with Internet Access Using AWS CDK](https://blog.mikaeels.com/provisioning-a-lambda-function-in-a-vpc-using-aws-cdk)
 - [Implementing S3 Bucket Policies Using AWS CDK](https://blog.mikaeels.com/implementing-s3-bucket-policies-using-aws-cdk)
 - [GCP Instance Scheduler using Terraform](https://blog.mikaeels.com/gcp-instance-scheduler-using-terraform)
 - [Getting Started with Pulumi: Deploying a Demo App to AWS and GCP Using TypeScript](https://blog.mikaeels.com/getting-started-with-pulumi)
 - [What is Context and its Significance in AWS CDK](https://blog.mikaeels.com/what-is-context-and-its-significance-in-aws-cdk)
-- [Automating AWS CodePipeline Notifications to Discord Using Lambda and Terraform](https://blog.mikaeels.com/aws-codepipeline-discord-notifier-terraform)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
