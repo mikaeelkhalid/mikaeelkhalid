@@ -102,11 +102,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Importing Existing VPC in AWS CDK](https://blog.mikaeels.com/importing-existing-vpc-in-aws-cdk)
 - [How to Create a VPC with AWS CDK](https://blog.mikaeels.com/how-to-create-a-vpc-with-aws-cdk)
 - [Provisioning a Lambda Function in a VPC with Internet Access Using AWS CDK](https://blog.mikaeels.com/provisioning-a-lambda-function-in-a-vpc-using-aws-cdk)
 - [Implementing S3 Bucket Policies Using AWS CDK](https://blog.mikaeels.com/implementing-s3-bucket-policies-using-aws-cdk)
 - [GCP Instance Scheduler using Terraform](https://blog.mikaeels.com/gcp-instance-scheduler-using-terraform)
-- [Getting Started with Pulumi: Deploying a Demo App to AWS and GCP Using TypeScript](https://blog.mikaeels.com/getting-started-with-pulumi)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
